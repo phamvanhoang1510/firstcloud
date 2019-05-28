@@ -1,0 +1,18 @@
+{
+  "name": "firstclould-firstlib",
+  "version": "1.0.0",
+  "description": "This is unscope publish package firstclould-firstlib",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://test.git"
+  },
+  "keywords": [
+    "firstcloud-firstlib"
+  ],
+  "author": "firstclouder",
+  "license": "MIT"
+}
