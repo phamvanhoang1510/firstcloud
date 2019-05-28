@@ -1,0 +1,21 @@
+{
+  "name": "firstconsumer",
+  "version": "1.0.0",
+  "description": "This is consumer of firstlib\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dfirstcloud-firstlib package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://pathtogi.git\u001b[D\u001b[D\u001b[D\u001b[Dt"
+  },
+  "keywords": [
+    "tbd"
+  ],
+  "author": "firstclouder",
+  "license": "MIT",
+  "dependencies": {
+    "firstclould-firstlib": "^1.0.0"
+  }
+}

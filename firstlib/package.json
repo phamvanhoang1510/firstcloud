@@ -1,5 +1,5 @@
 {
-  "name": "firstclould-firstlib",
+  "name": "firstcloud-firstlib",
   "version": "1.0.0",
   "description": "This is unscope publish package firstclould-firstlib",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://test.git"
+    "url": "https://github.com/phamvanhoang1510/firstcloud.git"
   },
   "keywords": [
     "firstcloud-firstlib"
